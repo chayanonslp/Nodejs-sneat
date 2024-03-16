@@ -1,6 +1,9 @@
 /*
  * Container style
  */
+ .buy-now{
+  display: none!important;
+ }
 .ps {
   overflow: hidden !important;
   overflow-anchor: none;
